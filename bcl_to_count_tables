@@ -1,0 +1,4 @@
+# Low level processing
+
+run bcl2fastq2 with --create-fastqfor-index-reads tag
+https://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq2-v216-Software-Guide-15051736-E.pdf
